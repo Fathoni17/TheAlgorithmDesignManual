@@ -54,3 +54,4 @@ dkms.conf
 # PDF Book
 *.pdf
 .vscode
+*.docx
