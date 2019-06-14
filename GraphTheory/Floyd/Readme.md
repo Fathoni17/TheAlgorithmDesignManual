@@ -4,7 +4,7 @@ Challenge at: https://www.hackerrank.com/challenges/floyd-city-of-blinding-light
 >Hard (Success Rate: 80.77%)
 
 ### Problem
-<p>Find shortest distance from <i>x</i> to <i>x</i> using Floyd Algorithm.</p>
+<p>Find shortest distance from <i>x</i> to <i>y</i> using Floyd Algorithm.</p>
 
 #### Sample Input
 ``` 
