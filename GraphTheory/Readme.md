@@ -1,8 +1,13 @@
 # Graph Teory
 
 ### List:
-1. Breadth-Frist Search
-2. Minimum Spanning Tree: Prim's Algorithm
-3. Minimum Spanning Tree: Kruskal's Algorithm
-4. Djikstra Shortest Path
-5. Floyd Shortes Path
+
+
+[x]  Breadth-Frist Search
+[x]  Minimum Spanning Tree: Prim's Algorithm
+[x] Minimum Spanning Tree: Kruskal's Algorithm
+[x] Djikstra Shortest Path
+[x] Floyd Shortes Path
+[x] Matrix
+[ ] The Value Of Friendship
+
