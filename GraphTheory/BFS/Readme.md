@@ -27,5 +27,5 @@ Challenge at: https://www.hackerrank.com/challenges/bfsshortreach/problem
 Pass: 8/8
 
 
-![Testing Algorithm](img/test_1.png)
-![Submit Result](img/submit_1.png)
+![Testing Algorithm](img/Test_1.png)
+![Submit Result](img/Submit_1.png)
