@@ -22,3 +22,8 @@ Challenge at : https://www.hackerrank.com/challenges/value-of-friendship/problem
 ```
 
 ### Report
+1. Time Out
+2. Pass, Changging graph model data type
+
+![Submit #1](img/submit_1.png)
+![Submit #2](img/submit_2.png)

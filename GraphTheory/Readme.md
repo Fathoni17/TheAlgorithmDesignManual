@@ -8,5 +8,5 @@
 - [x] Djikstra Shortest Path
 - [x] Floyd Shortes Path
 - [x] Matrix
-- [ ] The Value Of Friendship
+- [x] The Value Of Friendship
 
